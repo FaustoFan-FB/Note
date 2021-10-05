@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3dfd4191-f0e1-41f9-abb2-c06bd98ee6fd" name="默认变更列表" comment="默认变更列表">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/Algorithm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/com/fausto/classic/BinarySearch_NoReCursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/com/fausto/classic/DivideConquer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/com/fausto/classic/DynamicProgramming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/com/fausto/classic/Greedy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/com/fausto/classic/KMP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/com/fausto/classic/Prim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/com/fausto/dataProcessing/DataCompression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/com/fausto/dataProcessing/DataDecompression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/com/fausto/dataProcessing/FileProcessing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/com/fausto/dataProcessing/HuffmanCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/com/fausto/search/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/com/fausto/search/FibonacciSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/com/fausto/search/InsertValueSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/com/fausto/search/SeqSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/com/fausto/sort/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/com/fausto/sort/InsertSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/com/fausto/sort/MergetSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/com/fausto/sort/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/com/fausto/sort/RadixSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/com/fausto/sort/SelectSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/com/fausto/sort/ShellSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_Structure/Data_Structure.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_Structure/src/com/fausto/DataStructure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_Structure/src/com/fausto/graph/BFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_Structure/src/com/fausto/graph/DFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_Structure/src/com/fausto/graph/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_Structure/src/com/fausto/hashTable/HashTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_Structure/src/com/fausto/linkedlist/impl/SingleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_Structure/src/com/fausto/linkedlist/linkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_Structure/src/com/fausto/queue/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_Structure/src/com/fausto/queue/arrayImpl/ArrayQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_Structure/src/com/fausto/queue/arrayImpl/CircleArrayQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_Structure/src/com/fausto/recursion/usagecase/Maze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_Structure/src/com/fausto/recursion/usagecase/Queen8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_Structure/src/com/fausto/sparsearray/SparseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_Structure/src/com/fausto/stack/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_Structure/src/com/fausto/stack/arrayImpl/ArrayStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_Structure/src/com/fausto/stack/usagecase/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_Structure/src/com/fausto/tree/AVL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_Structure/src/com/fausto/tree/ArrayBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_Structure/src/com/fausto/tree/BinarySortTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_Structure/src/com/fausto/tree/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_Structure/src/com/fausto/tree/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_Structure/src/com/fausto/tree/HuffmanTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_Structure/src/com/fausto/tree/ThreadedBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_Structure/src/kotlin_way/DataStructure.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_Structure/src/kotlin_way/linkedlist/LinkedList.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_Structure/src/kotlin_way/linkedlist/SingleLinkedList.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_Structure/src/kotlin_way/queue/CircleArrayQueue.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_Structure/src/kotlin_way/queue/Queue.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_Structure/src/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/Data_Structure/com/fausto/sparseArray/SparseArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/Algorithm/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/Algorithm/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/Algorithm/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/Algorithm/Algorithm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/Algorithm/bin/com/atguigu/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/Algorithm/bin/com/atguigu/binarysearchnorecursion/BinarySearchNoRecur.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/Algorithm/bin/com/atguigu/dac/Hanoitower.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/Algorithm/bin/com/atguigu/dijkstra/DijkstraAlgorithm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/Algorithm/bin/com/atguigu/dijkstra/Graph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/Algorithm/bin/com/atguigu/dijkstra/VisitedVertex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/Algorithm/bin/com/atguigu/dynamic/KnapsackProblem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/Algorithm/bin/com/atguigu/floyd/FloydAlgorithm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/Algorithm/bin/com/atguigu/floyd/Graph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/Algorithm/bin/com/atguigu/greedy/GreedyAlgorithm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/Algorithm/bin/com/atguigu/horse/HorseChessboard$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/Algorithm/bin/com/atguigu/horse/HorseChessboard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/Algorithm/bin/com/atguigu/kmp/KMPAlgorithm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/Algorithm/bin/com/atguigu/kmp/ViolenceMatch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/Algorithm/bin/com/atguigu/kruskal/EData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/Algorithm/bin/com/atguigu/kruskal/KruskalCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/Algorithm/bin/com/atguigu/prim/MGraph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/Algorithm/bin/com/atguigu/prim/MinTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/Algorithm/bin/com/atguigu/prim/PrimAlgorithm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/Algorithm/src/com/atguigu/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/Algorithm/src/com/atguigu/binarysearchnorecursion/BinarySearchNoRecur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/Algorithm/src/com/atguigu/dac/Hanoitower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/Algorithm/src/com/atguigu/dijkstra/DijkstraAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/Algorithm/src/com/atguigu/dynamic/KnapsackProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/Algorithm/src/com/atguigu/floyd/FloydAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/Algorithm/src/com/atguigu/greedy/GreedyAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/Algorithm/src/com/atguigu/horse/HorseChessboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/Algorithm/src/com/atguigu/kmp/KMPAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/Algorithm/src/com/atguigu/kmp/ViolenceMatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/Algorithm/src/com/atguigu/kruskal/KruskalCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/Algorithm/src/com/atguigu/prim/PrimAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/DataStructures.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/DataStructures - 快捷方式.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/avl/AVLTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/avl/AVLTreeDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/avl/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/binarysorttree/BinarySortTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/binarysorttree/BinarySortTreeDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/binarysorttree/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/graph/Graph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/hashtab/Emp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/hashtab/EmpLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/hashtab/HashTab.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/hashtab/HashTabDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/huffmancode/HuffmanCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/huffmancode/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/huffmantree/HuffmanTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/huffmantree/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/linkedlist/Boy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/linkedlist/CircleSingleLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/linkedlist/DoubleLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/linkedlist/DoubleLinkedListDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/linkedlist/HeroNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/linkedlist/HeroNode2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/linkedlist/Josepfu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/linkedlist/SingleLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/linkedlist/SingleLinkedListDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/linkedlist/TestStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/queue/ArrayQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/queue/ArrayQueueDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/queue/CircleArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/queue/CircleArrayQueueDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/recursion/MiGong.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/recursion/Queue8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/recursion/RecursionTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/reversepolishcal/ReversePolishMultiCalc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/search/BinarySearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/search/FibonacciSearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/search/InsertValueSearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/search/SeqSearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/sort/BubbleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/sort/InsertSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/sort/MergetSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/sort/QuickSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/sort/RadixSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/sort/SelectSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/sort/ShellSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/sparsearray/SparseArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/stack/ArrayStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/stack/ArrayStack2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/stack/ArrayStackDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/stack/Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/stack/Operation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/stack/PolandNotation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/tree/ArrBinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/tree/ArrBinaryTreeDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/tree/BinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/tree/BinaryTreeDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/tree/HeapSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/tree/HeroNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/tree/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/tree/threadedbinarytree/HeroNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/tree/threadedbinarytree/ThreadedBinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/bin/com/atguigu/tree/threadedbinarytree/ThreadedBinaryTreeDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/src/com/atguigu/avl/AVLTreeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/src/com/atguigu/binarysorttree/BinarySortTreeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/src/com/atguigu/graph/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/src/com/atguigu/hashtab/HashTabDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/src/com/atguigu/huffmancode/HuffmanCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/src/com/atguigu/huffmantree/HuffmanTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/src/com/atguigu/linkedlist/DoubleLinkedListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/src/com/atguigu/linkedlist/Josepfu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/src/com/atguigu/linkedlist/SingleLinkedListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/src/com/atguigu/linkedlist/TestStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/src/com/atguigu/queue/ArrayQueueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/src/com/atguigu/queue/CircleArrayQueueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/src/com/atguigu/recursion/MiGong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/src/com/atguigu/recursion/Queue8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/src/com/atguigu/recursion/RecursionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/src/com/atguigu/reversepolishcal/ReversePolishMultiCalc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/src/com/atguigu/search/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/src/com/atguigu/search/FibonacciSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/src/com/atguigu/search/InsertValueSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/src/com/atguigu/search/SeqSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/src/com/atguigu/sort/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/src/com/atguigu/sort/InsertSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/src/com/atguigu/sort/MergetSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/src/com/atguigu/sort/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/src/com/atguigu/sort/RadixSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/src/com/atguigu/sort/SelectSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/src/com/atguigu/sort/ShellSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/src/com/atguigu/sparsearray/SparseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/src/com/atguigu/stack/ArrayStackDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/src/com/atguigu/stack/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/src/com/atguigu/stack/PolandNotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/src/com/atguigu/tree/ArrBinaryTreeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/src/com/atguigu/tree/BinaryTreeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/src/com/atguigu/tree/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/src/com/atguigu/tree/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/DataStructures/src/com/atguigu/tree/threadedbinarytree/ThreadedBinaryTreeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/图解.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/尚硅谷_韩顺平_Java数据结构和算法【最新版】.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resources/尚硅谷韩顺平老师数据结构分享/老师笔记.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programming language/Java/JAVA基础至Web.pdf" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="UML Class" />
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Data_Structure/src/com/fausto/linkedlist/impl/SingleLinkedList.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\Resources\Maven\workplace\repository" />
+        <option name="userSettingsFile" value="F:\Resources\Maven\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
+        <option name="workOffline" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1w7HosvyZd2XEis614M6CqLzBdr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultPlantUmlFileTemplate" value="UML Class" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="format.on.save" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="adopt-openjdk-1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Code_software/Jetbrains_resources/Plugins/StringManipulation.zip" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="optimize.imports.on.save" value="true" />
+    <property name="project.structure.last.edited" value="项目" />
+    <property name="project.structure.proportion" value="0.17702071" />
+    <property name="project.structure.side.proportion" value="0.45701358" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="typescript.add.unambiguous.imports.on.the.fly" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateKotlinClassDialog.RecentsKey">
+      <recent name="kotlin_way" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="kotlin" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="$ java -XX:+UseZGC className" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Kotlin.LinkedListKt">
+    <configuration name="ArrayQueue_Case" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fausto.queue.ArrayQueue_Case" />
+      <module name="Data_Structure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SparseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fausto.sparsearray.SparseArray" />
+      <module name="Data_Structure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fausto.sparsearray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Test" />
+      <module name="Data_Structure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fausto.classic.test" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fausto.classic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kotlin_way.linkedlist.LinkedListKt" />
+      <module name="Data_Structure" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="应用程序.ArrayQueue_Case" />
+      <item itemvalue="应用程序.SparseArray" />
+      <item itemvalue="应用程序.Test" />
+      <item itemvalue="应用程序.test" />
+      <item itemvalue="Kotlin.LinkedListKt" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.LinkedListKt" />
+        <item itemvalue="应用程序.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="3dfd4191-f0e1-41f9-abb2-c06bd98ee6fd" name="默认变更列表" comment="" />
+      <created>1627802918090</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627802918090</updated>
+      <workItem from="1627802937674" duration="176000" />
+      <workItem from="1627804152138" duration="1560000" />
+      <workItem from="1627809601972" duration="71000" />
+      <workItem from="1627809687583" duration="395000" />
+      <workItem from="1627810098337" duration="181000" />
+      <workItem from="1627810746573" duration="308000" />
+      <workItem from="1627811160427" duration="125000" />
+      <workItem from="1627811345635" duration="1329000" />
+      <workItem from="1627866481229" duration="5408000" />
+      <workItem from="1627876962005" duration="347000" />
+      <workItem from="1627906087415" duration="635000" />
+      <workItem from="1627952185290" duration="1348000" />
+      <workItem from="1627955316576" duration="478000" />
+      <workItem from="1627959188315" duration="652000" />
+      <workItem from="1627959874240" duration="1758000" />
+      <workItem from="1627962999410" duration="614000" />
+      <workItem from="1627963635955" duration="213000" />
+      <workItem from="1627982645549" duration="29000" />
+      <workItem from="1627984351489" duration="211000" />
+      <workItem from="1627984578458" duration="1845000" />
+      <workItem from="1628039807685" duration="5100000" />
+      <workItem from="1628047675084" duration="284000" />
+      <workItem from="1628047998640" duration="32000" />
+      <workItem from="1628048116965" duration="150000" />
+      <workItem from="1628048312494" duration="421000" />
+      <workItem from="1628048936801" duration="1998000" />
+      <workItem from="1628137987795" duration="1325000" />
+      <workItem from="1628156728151" duration="656000" />
+      <workItem from="1628161174769" duration="59000" />
+      <workItem from="1628161314222" duration="1045000" />
+      <workItem from="1628162412022" duration="539000" />
+      <workItem from="1628214815841" duration="4092000" />
+      <workItem from="1628389817559" duration="824000" />
+      <workItem from="1628473474833" duration="1437000" />
+      <workItem from="1628556796122" duration="85000" />
+      <workItem from="1628557063455" duration="2315000" />
+      <workItem from="1628732659298" duration="2536000" />
+      <workItem from="1628991938896" duration="649000" />
+      <workItem from="1628992912488" duration="1721000" />
+      <workItem from="1629079787719" duration="4336000" />
+      <workItem from="1629335080484" duration="1461000" />
+      <workItem from="1629343587648" duration="1318000" />
+      <workItem from="1629425055804" duration="2789000" />
+      <workItem from="1630302302558" duration="3777000" />
+      <workItem from="1630324235194" duration="198000" />
+      <workItem from="1630397202039" duration="606000" />
+      <workItem from="1630565464704" duration="1303000" />
+      <workItem from="1630652732601" duration="2434000" />
+      <workItem from="1630739169132" duration="2686000" />
+      <workItem from="1630912392683" duration="1532000" />
+      <workItem from="1630995931912" duration="108000" />
+      <workItem from="1630996113907" duration="646000" />
+      <workItem from="1631165856949" duration="3375000" />
+      <workItem from="1631169753415" duration="235000" />
+      <workItem from="1631170052134" duration="896000" />
+      <workItem from="1631178538388" duration="133000" />
+      <workItem from="1631186309515" duration="362000" />
+      <workItem from="1631186699331" duration="1009000" />
+      <workItem from="1631667986062" duration="250000" />
+      <workItem from="1633405878172" duration="19072000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="默认变更列表" />
+    <option name="LAST_COMMIT_MESSAGE" value="默认变更列表" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

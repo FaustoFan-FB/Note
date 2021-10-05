@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8" addBOMForNewFiles="with BOM">
+    <file url="file://$PROJECT_DIR$/Algorithm/src/com/fausto/classic/BinarySearch_NoReCursion.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Algorithm/src/com/fausto/classic/DivideConquer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Algorithm/src/com/fausto/classic/DynamicProgramming.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Algorithm/src/com/fausto/classic/KMP.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Data_Structure/src/com/fausto/queue/CircleArrayQueue.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Data_Structure/src/com/fausto/tree/ThreadedBinaryTree.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Data_Structure/src/test/Test.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
